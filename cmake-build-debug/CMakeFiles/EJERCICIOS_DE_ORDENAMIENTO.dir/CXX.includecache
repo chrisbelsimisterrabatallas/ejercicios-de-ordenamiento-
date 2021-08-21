@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/frixo/EJERCICIOS_DE_ORDENAMIENTO/main.cpp
+iostream
+-
+stdlib.h
+-
+time.h
+-
+windows.h
+-
+

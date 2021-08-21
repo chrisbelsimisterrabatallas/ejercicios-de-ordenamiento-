@@ -1,0 +1,3 @@
+C:/Users/frixo/EJERCICIOS_DE_ORDENAMIENTO/cmake-build-debug/CMakeFiles/EJERCICIOS_DE_ORDENAMIENTO.dir
+C:/Users/frixo/EJERCICIOS_DE_ORDENAMIENTO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/frixo/EJERCICIOS_DE_ORDENAMIENTO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
